@@ -4,7 +4,7 @@
 
 Let LLMs drive a real browser. This MCP server wraps [agent-browser](https://github.com/vercel-labs/agent-browser) (by Vercel Labs) so any MCP-compatible client — Claude Desktop, Claude Code, or others — can navigate pages, fill forms, click buttons, take screenshots, and more.
 
-<!-- TODO: Add screenshot of Claude Code using the browser tools -->
+![Claude Code navigating Hacker News and taking a screenshot](screenshot.png)
 
 ## Prerequisites
 
